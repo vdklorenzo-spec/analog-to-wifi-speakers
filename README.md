@@ -13,7 +13,9 @@ Keep your high-end analog audio equipment alive and stream your music anytime, a
 - **Matrix Visualizer Panel:** Beautiful interface with a responsive real-time spectrum analyzer for your tablet screen.
 - **Sync Optimization:** Smart internal delay buffer (`VISUAL_DELAY_NS`) ensures the on-screen visualizer matrix stays perfectly in sync with the Wi-Fi speaker output.
 
----
+
+ Click here to watch the full video demo with audio on Reddit
+---https://www.reddit.com/r/googlehome/comments/1sabfn9/demo_analog_audio_google_cast_speaker_groups_5s/ 
 
 # Requirements & Setup
 
