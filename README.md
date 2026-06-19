@@ -1,11 +1,11 @@
-# Analog to WiFi Speakers 🎵📱
+# Analog to WiFi Speakers 
 
 An Android application designed to turn any old tablet into a high-quality Wi-Fi audio bridge. By connecting an external USB sound card (USB DAC) to your tablet, this app captures the analog audio input and streams it losslessly across your home network using the Google Cast framework and a local HLS server. 
 
 Keep your high-end analog audio equipment alive and stream your music anytime, anywhere!
 
 
-## 🚀 Key Features
+## Key Features
 
 - **USB DAC Support:** Seamlessly captures analog audio from external sound cards via USB.
 - **Local HLS Streaming:** Runs a background `LocalHttpServer` on port 9090 to host a live audio stream.
@@ -15,7 +15,7 @@ Keep your high-end analog audio equipment alive and stream your music anytime, a
 
 ---
 
-## 🛠️ Requirements & Setup
+# Requirements & Setup
 
 1. **Hardware:** An Android tablet, an external USB Audio Interface / Sound Card (e.g., Behringer U-Control or compatible USB DAC), and an OTG adapter cable.
 2. **Audio Input:** Connect your analog source (turntable, phone, PC) to the input of the sound card.
@@ -23,7 +23,7 @@ Keep your high-end analog audio equipment alive and stream your music anytime, a
 
 ---
 
-## 📜 License & Royalties
+# License & Royalties
 
 This project is published under a **Custom Commercial Royalty License** (see the full `LICENSE` file for details):
 - **Personal Use:** 100% Free to view, modify, download, and use at home.
